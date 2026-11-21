@@ -2,6 +2,7 @@
     "name": "wavvyapp-website",
     "version": "0.1.0",
     "private": true,
+    "packageManager": "pnpm@10.33.0",
     "description": "Wavvy is an AI-powered first-stage recruitment screening platform",
     "scripts": {
         "dev": "next dev --turbopack --port 3002",
